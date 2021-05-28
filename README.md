@@ -1,0 +1,2 @@
+# DBMS
+ALL PPTS OF DBMS
